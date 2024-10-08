@@ -1,0 +1,12 @@
+withStyle = HOC
+makeStyle = hook
+createTheme and ThemeProvider = updates theme
+formControl = wrap a single element
+formLabel = provides the label for formControl
+formControlLabel = will compain the features of formControl and formLabel
+formGroup = wraping multiple formControls
+clsx = use to compain various classes dynamically
+InputLabelProps = use to config the label 
+inputProps = use to config the input
+JSS (JavaScript Style Sheets) selectors
+TextField and Input
